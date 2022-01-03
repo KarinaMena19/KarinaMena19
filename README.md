@@ -1,4 +1,4 @@
-### Olá! eu sou a Karina Mena, graduanda em Engenharia de Software e proprietária da empresa KLV Agropecuária, voltada a consultoria empresarial e venda de commodities agrícolas.
+### Olá! eu sou a Karina Mena.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
